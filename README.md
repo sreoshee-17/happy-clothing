@@ -18,7 +18,7 @@ https://happy-clothing.netlify.app/
 
 ## API Reference
 
-* Weather is fetched by using ```Fake Store API```.
+* Item information is fetched by using ```Fake Store API```.
 * URL: ```https://fakestoreapi.com/products```
 
 
